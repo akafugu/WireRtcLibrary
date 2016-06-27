@@ -23,7 +23,7 @@
 #else
 #  include <WProgram.h>
 #endif
-#include <../Wire/Wire.h>
+#include <Wire.h>
 
 #include <avr/io.h>
 
